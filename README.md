@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C7433&multiline=true&width=1000&height=65&lines=Hello+my+friend%2C+my+name+is+Aleksandr%2C+I+am+a+student+of+the+faculty+of+backend+development+in+python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C7433&multiline=true&width=1000&height=65&lines=Hello%2C+my+name+is+Aleksandr%2C+I+am+a+student+of+the+faculty+of+backend+development+in+python)](https://git.io/typing-svg)
 
 
 
