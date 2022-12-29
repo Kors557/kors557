@@ -1,11 +1,4 @@
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C7433&multiline=true&width=1000&height=65&lines=Hello%2C+my+name+is+Aleksandr%2C+I+am+a+student+of+the+faculty+of+backend+development+in+python)](https://git.io/typing-svg)
-
-
-
+Python developer 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=kors557&show_icons=true&count_private=true"><img
            height=150
