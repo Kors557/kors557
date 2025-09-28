@@ -30,9 +30,6 @@ I love turning complex problems into simple, elegant solutions and experimenting
 ---
 
 ## 🌱 Fun Facts  
-
-- ✍️ Write tech stories & small side-projects  
-- 🎮 Sometimes gamify coding (like implementing design patterns as a «game»)  
 - ☕ Coffee first, then code  
 
 ---
