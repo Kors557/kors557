@@ -23,8 +23,9 @@ I love turning complex problems into simple, elegant solutions and experimenting
 ## 📊 Most Used Languages  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kors557&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kors557&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
