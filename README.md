@@ -44,3 +44,50 @@ I love turning complex problems into simple, elegant solutions and experimenting
 ---
 
 ✨ *“First, solve the problem. Then, write the code.”*  
+
+---
+
+<details>
+  <summary>🇷🇺 Читать на русском</summary>
+
+# 👋 Привет, я — Александр  
+
+🚀 **Backend-разработчик**, увлечённый **Java, Spring Boot и системным дизайном**  
+Люблю превращать сложные задачи в простые и изящные решения, а также экспериментировать с новыми технологиями.  
+
+---
+
+## 🛠 Технологический стек  
+
+**Языки и фреймворки**  
+- Java (Spring Boot, JPA, Hibernate)  
+- Python (Django)  
+
+**Инструменты**  
+- Git, GitHub  
+- Postman  
+
+---
+
+## 📊 GitHub Статистика  
+(См. карточки выше 👆)  
+
+---
+
+## 🌱 Немного обо мне  
+
+- ☕ Сначала кофе, потом код  
+- ✍️ Иногда пишу небольшие технические статьи и pet-проекты  
+
+---
+
+## 📫 Контакты  
+
+- 📧 Email: 1500459@mail.ru  
+- 💬 Telegram: [@kors557](https://t.me/kors557)  
+
+---
+
+✨ *«Сначала реши задачу. Потом пиши код.»*  
+
+</details>
