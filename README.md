@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Aleksandr  
 
 🚀 **Backend Developer** | Passionate about **Java, Spring Boot & System Design**  
 I love turning complex problems into simple, elegant solutions and experimenting with new technologies.  
@@ -30,7 +30,9 @@ I love turning complex problems into simple, elegant solutions and experimenting
 ---
 
 ## 🌱 Fun Facts  
+
 - ☕ Coffee first, then code  
+- ✍️ Sometimes I write small tech stories & side-projects  
 
 ---
 
@@ -40,6 +42,5 @@ I love turning complex problems into simple, elegant solutions and experimenting
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kors557)  
 
 ---
-
 
 ✨ *“First, solve the problem. Then, write the code.”*  
