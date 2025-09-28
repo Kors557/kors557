@@ -23,8 +23,8 @@ I love turning complex problems into simple, elegant solutions and experimenting
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kors557&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kors557&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -40,7 +40,9 @@ I love turning complex problems into simple, elegant solutions and experimenting
 ## 📫 Let’s Connect  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1500459@mail.ru)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kors557)  
 
 ---
+
 
 ✨ *“First, solve the problem. Then, write the code.”*  
