@@ -26,6 +26,10 @@ I love turning complex problems into simple, elegant solutions and experimenting
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kors557&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kors557&layout=pie&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 ---
